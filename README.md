@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: William McDermott 
+2. Student ID: 2367430
+3. Email: wmcdermott@chapman.edu
+4. Class: cpsc-298-03
 5. Assignment: numbers 
 
 ## Application Purpose
@@ -18,7 +18,7 @@ A bash script named “numbers.sh” that will
 ## Known Errors 
 
 ## References
-
+Day 7, Day 8 Shell script Slides
 ## Instructions
 To run the script with input from the included numbers-input file:
 ./numbers.sh < numbers-input
