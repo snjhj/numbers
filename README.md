@@ -19,6 +19,8 @@ A bash script named “numbers.sh” that will
 
 ## References
 Day 7, Day 8 Shell script Slides
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html: Basic git commands
+https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-mac-os-x: Creating SSH on mac
 ## Instructions
 To run the script with input from the included numbers-input file:
 ./numbers.sh < numbers-input
